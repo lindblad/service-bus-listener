@@ -1,0 +1,16 @@
+{
+  "name": "receiver",
+  "version": "1.0.0",
+  "description": "Azure service bus receiver runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lindblad",
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^4.0.2",
+    "await-timeout": "^0.3.0",
+    "azure-sb": "^0.11.0"
+  }
+}
